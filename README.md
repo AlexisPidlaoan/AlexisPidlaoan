@@ -18,7 +18,7 @@
 
 # Certifications
 <ul>
-  <li><a> SQL and Relational Databases 101 </a></li>
+  <li><a href ="" target = "_blank"> SQL and Relational Databases 101 </a></li>
 </ul>
 
 <!--
