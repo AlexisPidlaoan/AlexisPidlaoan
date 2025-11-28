@@ -15,7 +15,11 @@
 </ul>
 
   <hr>
-
+#Skillset
+<ul>
+  <li></li>
+</ul>
+  <hr>
 # Certifications
 <ul>
   <li><a href ="" target = "_blank"> SQL and Relational Databases 101 </a></li>
