@@ -17,7 +17,9 @@
   <hr>
 <h1>Skillset</h1>
 <ul>
-  <li></li>
+  <li>Java Programming</li>
+  <li>Front-End Design</li>
+  <li>Computer System Servicing</li>
 </ul>
   <hr>
 <h1>Certifications</h1>
