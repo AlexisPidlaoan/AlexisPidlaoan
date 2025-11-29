@@ -15,12 +15,12 @@
 </ul>
 
   <hr>
-#Skillset
+<h1>Skillset</h1>
 <ul>
   <li></li>
 </ul>
   <hr>
-# Certifications
+<h1>Certifications</h1>
 <ul>
   <li><a href ="https://courses.cognitiveclass.ai/certificates/c00c07ea70414e0088f36c694ee27e86" target = "_blank"> SQL and Relational Databases 101 </a></li>
 </ul>
