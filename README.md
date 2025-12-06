@@ -25,6 +25,7 @@
 <h1>Certifications</h1>
 <ul>
   <li><a href ="https://courses.cognitiveclass.ai/certificates/c00c07ea70414e0088f36c694ee27e86" target = "_blank"> SQL and Relational Databases 101 </a></li>
+  <li><a href = ""> Oracle Cloud Infrastructure 2025 Certified Associate </li>
 </ul>
 
 <!--
