@@ -18,8 +18,8 @@
 <h1>Skillset</h1>
 <ul>
   <li>Java Programming</li>
-  <li>Front-End Design</li>
-  <li>Back-end Developer</li>
+  <li>HTML, CSS</li>
+  <li>Javascript, IBM Db2 MySQL</li>
   <li>Computer System Servicing</li>
 </ul>
   <hr>
