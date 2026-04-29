@@ -25,6 +25,7 @@
   <hr>
 <h1>Certifications</h1>
 <ul>
+  <li><a href = "https://courses.cognitiveclass.ai/certificates/9ac4115c3db84a2e93f656cce5c10b4b"> NoSQL and DBaaS 101 </li>
   <li><a href = "https://www.sololearn.com/certificates/CC-PYF7SEEF"> Sololearn: Data Analytics with AI</li>
   <li><a href ="https://courses.cognitiveclass.ai/certificates/c00c07ea70414e0088f36c694ee27e86" target = "_blank"> SQL and Relational Databases 101 </a></li>
   <li><a href = "https://catalog-education.oracle.com/pls/certview/sharebadge?id=B3423A121C632667D58F845D7398A1D0D76CAFA96F8AFF5A84BAAE584705AB46" target = "_blank"> Oracle Cloud Infrastructure 2025 Certified Associate </li>
