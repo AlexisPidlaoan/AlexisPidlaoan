@@ -17,10 +17,16 @@
   <hr>
 <h1>Skillset</h1>
 <ul>
-  <li>Java Programming</li>
-  <li>HTML, CSS</li>
-  <li>Javascript, IBM Db2 MySQL</li>
+  <li>Programming: Java, Javascript, Python</li>
+  <li>Databases: IBM Db2 Cloud</li>
+  <li>Tools: Jasperoft Studio, Pentaho, HTML, CSS, Firebase</li>
   <li>Computer System Servicing</li>
+
+<h1>You may reach at:</h1>
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/apidlaoan/"> Alexis Pidlaoan </li>
+  <li>Email: <a href="mailto:alexispidlaoann@gmail.com">Alexis Pidlaoan</a></li>
+</ul>
 </ul>
   <hr>
 <h1>Certifications</h1>
