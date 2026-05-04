@@ -17,14 +17,14 @@
 </ul>
 
   <hr>
-<h1>Skillset</h1>
+<h2>Skillset</h2>
 <ul>
   <li>Programming: Java, Javascript, Python</li>
   <li>Databases: IBM Db2 Cloud</li>
   <li>Tools: Jasperoft Studio, Pentaho, HTML, CSS, Firebase</li>
   <li>Computer System Servicing</li>
 </ul>
-<h1>You may reach at:</h1>
+<h2>You may reach at:</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/apidlaoan/"> Alexis Pidlaoan </li>
   <li>Email: <a href="mailto:alexispidlaoann@gmail.com">Alexis Pidlaoan</a></li>
