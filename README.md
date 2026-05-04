@@ -21,7 +21,7 @@
   <li>Databases: IBM Db2 Cloud</li>
   <li>Tools: Jasperoft Studio, Pentaho, HTML, CSS, Firebase</li>
   <li>Computer System Servicing</li>
-
+</ul>
 <h1>You may reach at:</h1>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/apidlaoan/"> Alexis Pidlaoan </li>
