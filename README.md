@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Alexis B. Pidlaoan
+# About Me
+<p>I am Alexis B. Pidlaoan, with a background knowledge about front-end designing and database management skills. I take lead on a group project and able to chunk complex tasks into more manageable tasks on my team.</p>
 
   <hr>
 <h4> 🌱 I’m currently learning on Information Technology</h2>
