@@ -35,6 +35,8 @@
 </ul>
 <h1>Awards</h1>
       <ul>
+        <li> President's Lister (2025 - 2026) </li>
+        <li> Service Award (2026) </li>
         <li>Dean's Lister (2024 - 2025)</li>
         <li>NSTP Academic Award (2025)</li>
         <li>Grade 12 With High Honors (2024)</li>
