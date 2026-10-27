@@ -3,7 +3,7 @@
 <p>I am Alexis B. Pidlaoan, with a background knowledge about front-end designing and database management skills. I take lead on a group project and able to chunk complex tasks into more manageable tasks on my team.</p>
 
   <hr>
-<h4> 🌱 I’m currently learning on Information Technology</h2>
+<h2> 🌱 I’m currently learning on Information Technology</h2>
   <hr>
 
 # Education
@@ -20,7 +20,7 @@
 <h2>Skillset</h2>
 <ul>
   <li>Programming: Java, Javascript, Python</li>
-  <li>Databases: IBM Db2 Cloud</li>
+  <li>Databases: IBM Db2 Cloud, PHP</li>
   <li>Tools: Jasperoft Studio, Pentaho, HTML, CSS, Firebase</li>
   <li>Computer System Servicing</li>
 </ul>
